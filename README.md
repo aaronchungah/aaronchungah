@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Aaron Tan, a Year 2 Data Science and Analytics (Hons) major at the National University of Singapore (NUS) with a second major in Physics. I really enjoy building data analyses, models, and algorithms that don’t just work technically, but are easy to understand and use, much like how I break down complex STEM concepts into intuitive lessons as a part-time tuition tutor.
+I am Aaron Tan, a Data Science and Analytics (Hons) major at NUS. I really enjoy building data analyses, models, and algorithms that don’t just work technically, but are easy to understand and use, much like how I break down complex STEM concepts into intuitive lessons as a part-time tuition tutor.
 
 
 ## My Technical Skills:
